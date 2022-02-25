@@ -1,5 +1,5 @@
 # Git-Basic-Codes
-# Steps if you made new repo:-
+# Steps if you made new repository:-
 1. git init
 2. git add *
 3. git commit -m "any msg"
@@ -7,7 +7,7 @@
 5. git push origin master
 
 
-# Steps if you want to update to existing repo:-
+# Steps if you want to update to existing repository:-
 1. git init
 2. git add *
 3. git commit -m "any msg"
