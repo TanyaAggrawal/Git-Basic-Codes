@@ -1,5 +1,5 @@
 # Git-Basic-Codes
-# Steps if you made new repository:-
+# Steps if you made new repository:
 1. git init
 2. git add *
 3. git commit -m "any msg"
@@ -7,7 +7,7 @@
 5. git push origin master
 
 
-# Steps if you want to update to existing repository:-
+# Steps if you want to update to existing repository:
 1. git init
 2. git add *
 3. git commit -m "any msg"
@@ -15,6 +15,6 @@
 5. git push origin master
 
 
-# Steps to copy a project:-
+# Steps to copy a project:
 1. git init
 2. git clone "link"   (link from the github)
